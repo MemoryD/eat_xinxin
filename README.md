@@ -10,7 +10,7 @@
 
 ## 2 开发环境
 
-本网站采用 **Django ** 进行开发。Django 是用 Python 写的一个 Web 框架。
+本网站采用 **Django** 进行开发。Django 是用 Python 写的一个 Web 框架。
 
 开发环境是 **Python 3.5.2**，**Django 1.10.6。**
 
